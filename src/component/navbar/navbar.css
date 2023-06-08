@@ -1,0 +1,49 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(246, 246, 251);
+    height: 40.6rem;
+}
+
+.glass {
+    background: -webkit-linear-gradient(#C08FFB, #64C9F7, #C48CFB);
+    border-radius: 1rem;
+    padding: 0.3rem 0.3rem 0.3rem 0.3rem;
+    color: white;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+h4 {
+    margin-left: 1rem;
+    font-size: x-large;
+    margin-top: -1rem;
+}
+
+li {
+    list-style-type: none;
+    margin-left: 1.5rem;
+    margin-top: 2rem;
+}
+
+.navlink {
+    color: black;
+    text-decoration: none;
+}
+
+.firstnav {
+    margin-top: -5rem;
+}
+
+.firstnav nav {
+    margin-top: -2rem;
+}
+
+.lastnav {
+    display: flex;
+}
+
+.logout {
+    color: gray;
+}

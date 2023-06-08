@@ -1,0 +1,35 @@
+.pro{
+    display: flex;
+}
+.days{
+    display: flex;
+    margin-left: 20rem;
+    width: 26rem;
+}
+h1{
+    margin-left: 2rem;
+}
+.days p{
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+}
+.btn{
+    display: flex;
+    margin-left: 2rem;
+}
+.btn2{
+    border-radius: 1rem;
+    height: 2.2rem;
+    width: 5rem;
+    border: none;
+}
+.btn2:hover{
+    color: white;
+    background-color: #7F75FA;
+    cursor: pointer;
+}
+.circle{
+    font-size: medium;
+    margin-left: 2rem;
+    color: #7F75FA;
+}

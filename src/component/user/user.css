@@ -1,0 +1,70 @@
+.user {
+    display: flex;
+    justify-content: space-between;
+}
+
+.team {
+    margin-left: 2rem;
+    width: 20rem;
+    position: relative;
+}
+span{
+    position: absolute;
+    top: 1rem;
+    font-size: large;
+    margin-left: 1rem;
+}
+.caret{
+    position: absolute;
+    left: 10rem;
+    top: 1rem;
+    border: 1px solid rgb(246,246,251);
+    height: 1rem;
+    width: 1rem;
+    padding: 0.1rem;
+    background-color: rgb(246,246,251);
+    cursor: pointer;
+}
+.plus{
+    position: absolute;
+    right: 6rem;
+    top: 1rem;
+    height: 1rem;
+    width: 1rem;
+    padding: 0.1rem;
+    background-color: rgb(115,115,249);
+    cursor: pointer;
+    border-radius: 1rem;
+    color: white;
+}
+.zahra {
+    margin-right: 1rem;
+    width: 17rem;
+    position: relative;
+}
+.hash{
+    border: 1px solid rgb(74,74,74);
+    height: 2rem;
+    width: 2rem;
+    border-radius: 2rem;
+    padding: 0.5rem 0.5rem 0.1rem 0.5rem;
+    color: rgb(74,74,74);
+}
+strong{
+    position: absolute;
+    top: 15px;
+    font-size: large;
+    margin-left: 0.5rem;
+    padding-top: -1rem;
+}
+.squaare{
+    position: absolute;
+    left: 12rem;
+    top: 1rem;
+    border: 1px solid rgb(246,246,251);
+    height: 1rem;
+    width: 1rem;
+    padding: 0.1rem;
+    background-color: rgb(246,246,251);
+    cursor: pointer;
+}
